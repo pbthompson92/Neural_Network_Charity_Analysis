@@ -14,7 +14,8 @@ The purpose of this project is to create a deep learning neural network to help 
  * There were three hidden layers used for this neural network model. There were 120, 50 and 30 neurons in the first, second and third layers respectively. The Sigmoid and ReLU activations functions were both used. 
  * Target performance of 75% accuracy was not achieved. The highest accuracy achieved was 73.67% in the third optimization model. 
 
-SCREENSHOT
+![Accuracy](https://user-images.githubusercontent.com/91712554/155863771-be624b91-030b-40cb-8f12-3b152efb5862.png)
+
 
  * Attempts to optimize the model included adding additional hidden layers. Models with both three and four hidden layers were tried. In addition, the number of neurons in each layer were increased, which resulted in the most accurate model. Lastly there were changes made to the activation function, trying both Sigmoid and ReLU. However, performance of 75% was not achieved by any of these models. 
 
